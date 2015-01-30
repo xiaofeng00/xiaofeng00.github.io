@@ -1,4 +1,4 @@
-title:            Site Title
+title:            小冯的博客
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -9,7 +9,7 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           小冯
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com

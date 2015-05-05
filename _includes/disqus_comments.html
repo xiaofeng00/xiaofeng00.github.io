@@ -1,5 +1,5 @@
 {% if site.disqus_shortname %}
-    {% if page.id %}
+
         <!-- 多说评论框 start -->
         <div class="ds-thread" data-thread-key="page.id" data-title="page.title" data-url="page.url"></div>
         <!-- 多说评论框 end -->
@@ -16,7 +16,5 @@
             })();
             </script>
         <!-- 多说公共JS代码 end -->
-    {% else %}
-        <p>评论功能暂未开启</p>
-    {% endif %}
+   
 {% endif %}

@@ -46,7 +46,7 @@ Apply the `third` class like so to display three images side by side that share 
 <figure class="third">
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://7xiwoq.com1.z0.glb.clouddn.com/hd.png" alt=""></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 {% endhighlight %}
@@ -59,6 +59,6 @@ And you'll get something that looks like this:
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://7xiwoq.com1.z0.glb.clouddn.com/hd.png" alt=""></a>
 	<figcaption>Three images.</figcaption>
 </figure>
